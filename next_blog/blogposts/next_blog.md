@@ -1,3 +1,8 @@
+---
+title: 'NextJS-Programming-Blog'
+date: '2023-06-16'
+---
+
 # NextJS-Programming-Blog
 A Personal Project blog using NextJS and TailwindCSS
 
