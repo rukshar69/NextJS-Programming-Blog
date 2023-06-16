@@ -1,6 +1,6 @@
 import Link from 'next/link'
 import React from 'react'
-import { FaYoutube, FaTwitter, FaGithub, FaLaptop, FaLinkedin} from "react-icons/fa"
+import { FaGithub, FaGoogle, FaLinkedin} from "react-icons/fa"
 
 export default function Navbar() {
   return (
