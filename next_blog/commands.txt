@@ -1,0 +1,3 @@
+npm i react-icons
+npm i gray-matter
+npm i remark remark-html
