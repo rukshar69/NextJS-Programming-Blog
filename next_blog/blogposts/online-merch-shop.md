@@ -7,9 +7,9 @@ date: '2023-06-13'
 
 A simple **online-merch-store**. 
 
-**GitHub**: https://github.com/rukshar69/online-market-place-django 
+**GitHub**: [https://github.com/rukshar69/online-market-place-django](https://github.com/rukshar69/online-market-place-django) 
 
-Link to online app: https://online-market-place-django.vercel.app/ 
+Link to online app: [https://online-market-place-django.vercel.app/](https://online-market-place-django.vercel.app/) 
 
 Backend: Django
 

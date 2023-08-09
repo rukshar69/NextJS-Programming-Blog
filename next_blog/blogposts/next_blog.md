@@ -6,9 +6,9 @@ date: '2023-06-16'
 # NextJS-Programming-Blog
 A Personal Project blog using NextJS and TailwindCSS
 
-**Vercel**: https://next-js-programming-blog.vercel.app/ 
+**Vercel**: [https://next-js-programming-blog.vercel.app/](https://next-js-programming-blog.vercel.app/) 
 
-**GitHub**: https://github.com/rukshar69/NextJS-Programming-Blog 
+**GitHub**: [https://github.com/rukshar69/NextJS-Programming-Blog](https://github.com/rukshar69/NextJS-Programming-Blog) 
 
 In this project, using **NextJS**(version 13) with **TailwindCSS**, a simple blog page is created that tracks my personal programming projects on Data Science and Web development. Each blog post is written in *Markdown* and then stored in a folder, *blogposts*. 
 
